@@ -1,5 +1,5 @@
 # 2020117
-Pietro
+Pietro Bernardello Gomes
 
 Diogo de Souza Faulstich
 
