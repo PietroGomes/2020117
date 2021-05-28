@@ -1,0 +1,6 @@
+Maior Subsequência Comum
+
+O problema da Maior Subsequência Comum é um problema clássico da Ciência da
+Computação que consiste em encontrar a mais longa subsequência de caracteres comuns
+a duas strings. A solução genérica é obtida pelo uso de uma matriz que combina estes
+caracteres dois a dois, com alto custo de tempo e uso de memória.

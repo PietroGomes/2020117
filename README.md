@@ -1,8 +1,8 @@
 # 2020117
-Pietro
+Pietro Bernardello Gomes
 
 Diogo de Souza Faulstich
 
-Rayan
+Rayan Diniz da Silva
 
 João Guilherme Rocha Santos Pinto
