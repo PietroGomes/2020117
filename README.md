@@ -5,4 +5,4 @@ Diogo de Souza Faulstich
 
 Rayan Diniz da Silva
 
-João Guilherme
+João Guilherme Rocha Santos Pinto
