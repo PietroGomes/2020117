@@ -1,4 +1,4 @@
-O que é um commit?
-Em ciência da computação e gerenciamento de dados, um commit é a realização de um 
-conjunto de mudanças provisórias permanentes, marcando o fim de uma transação e
- proporcionando durabilidade às transações ACID.
+# O que é um commit?
+- Em ciência da computação e gerenciamento de dados, um commit é a realização de um 
+  conjunto de mudanças provisórias permanentes, marcando o fim de uma transação e
+  proporcionando durabilidade às transações ACID.
